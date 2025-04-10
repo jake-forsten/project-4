@@ -1,7 +1,6 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "homepage": "https://jake-forsten.github.io/project-4",
   "description": "",
   "main": "index.js",
   "type": "module",
